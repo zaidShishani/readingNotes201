@@ -8,5 +8,6 @@ Hi am Zaid Shishani am 21 years old, second year **software engineer student** a
 | ------------- | ------------- |
 | Read01  | [Go to read 1](https://zaidshishani.github.io/readingNotes201/Read01) |
 | Read02  | [Go to read 2](https://zaidshishani.github.io/readingNotes201/Read02) |
-| Read02  | [Go to read 3](https://zaidshishani.github.io/readingNotes201/Read03) |
-| Read02  | [Go to read 3](https://zaidshishani.github.io/readingNotes201/Read04) |
+| Read03  | [Go to read 3](https://zaidshishani.github.io/readingNotes201/Read03) |
+| Read04  | [Go to read 4](https://zaidshishani.github.io/readingNotes201/Read04) |
+| Read05  | [Go to read 5](https://zaidshishani.github.io/readingNotes201/Read05) |
