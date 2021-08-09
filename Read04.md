@@ -55,7 +55,7 @@ Internet Movie Database</a>
 # layout 
 This part goes on the different ways to position elements using normal flow ,relative positioning,absolute positioning and floats andand how different size and resolution affects the design process and learn the difference between width and liquid layouts and how they are created , and find out how designer use grids to make their page to look more professional 
 
-## key concepts 
+## key concepts in positioning elements
 CSS trasts HTML elements as boxes the boxes will be either block- level box or inline box 
 
 * block-level elements starts on a new line.
